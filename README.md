@@ -1,3 +1,3 @@
 Personal page. Learning CSS.
 
-#### lamista.github.io/personal-page/
+#### https://lamista.github.io/personal-page/
